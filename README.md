@@ -1,4 +1,4 @@
-# 🥁 Interactive Drum Kit ![Drum Kit Thumbnail](/Drum-kit/images/thumbnail.png)
+# 🥁 Interactive Drum Kit ![Drum Kit Thumbnail](Drum-kit/images/thumbnail.png)
 
 
 
